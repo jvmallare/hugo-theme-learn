@@ -25,7 +25,7 @@ this shortcode takes exactly one optional parameter to define the text that appe
 
 {{%expand "Is this learn theme rocks ?" %}}Yes !{{% /expand%}}
 
-# Demo
+# Demo test
 
 	{{%/*expand*/%}}
     Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
